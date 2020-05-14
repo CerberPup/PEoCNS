@@ -1,0 +1,3 @@
+# Partial Tkenv config file -- see $HOME/.tkenvrc as well
+inspector "gg1" "gg1" "2" "565x342+1017+7:normal"
+

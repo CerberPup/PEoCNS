@@ -1,0 +1,27 @@
+version 3
+run General-0-20200514-20:10:58-11642
+attr configname General
+attr datetime 20200514-20:10:58
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network gg1
+attr processid 11642
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+itervar iterationvarsd ""
+config network gg1
+config cpu-time-limit 20s
+config gg1.k1.data_volume exponential(1000)
+
+par gg1.k1 typename "\"K1\""
+par gg1.k1 data_volume exponential(1000)
+par gg1.k2 typename "\"K2\""
+par gg1.lacze typename "\"Lacze\""
+par gg1 typename "\"gg1\""
+

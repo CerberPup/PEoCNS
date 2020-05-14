@@ -1,0 +1,5 @@
+Pakiety do wyslania: 795
+Total jobs processed: 797
+Avg queueing time:    37.8111
+Max queueing time:    75.5288
+Standard deviation:   21.8705
